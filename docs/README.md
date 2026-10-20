@@ -1,5 +1,6 @@
 <!-- #BEGIN BLOCK -->
 <!-- #PROPERTY NAME=TITLE -->
+个人用
 <div align="center">
     <img src="/HMCL/src/main/resources/assets/img/icon@8x.png" alt="HMCL Logo" width="64"/>
 </div>
